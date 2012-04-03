@@ -1,0 +1,15 @@
+*.notes
+*/obj/*
+*/bin/*
+*ReSharper.*
+bin/*
+*.suo
+*.pdb
+*.orig
+*.user
+*.sln.docstates
+*.dotCover
+*.ReSharper
+*.rej
+git-remote-http.exe.stackdump
+*/*.csproj.user
